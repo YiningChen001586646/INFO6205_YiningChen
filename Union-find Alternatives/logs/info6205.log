@@ -1,0 +1,570 @@
+2020-09-24 14:13:16 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-24 14:13:16 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-24 14:13:16 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-24 14:13:16 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-24 14:13:16 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-24 14:13:16 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-24 14:13:16 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-24 14:13:16 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-24 18:24:25 DEBUG LazyLoggerTest - Hello debug message
+2020-09-24 18:24:28 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-25 11:01:57 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 11:01:57 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 11:01:57 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 11:01:57 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 11:01:57 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 11:01:57 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 11:01:57 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 11:01:57 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:26:36 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:26:36 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:26:36 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:26:36 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:26:36 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:26:36 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:26:36 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:26:36 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:30:45 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:30:45 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:30:45 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:30:45 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:30:45 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:30:45 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:30:45 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:30:45 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:30:56 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:30:56 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:30:56 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:30:56 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:30:56 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:30:56 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:30:56 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:30:56 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:33:52 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:33:52 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:33:52 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:33:52 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:33:52 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:33:52 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:33:52 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:33:52 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:34:47 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:34:47 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:34:47 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:34:47 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:34:47 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:34:47 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:34:47 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:34:47 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:39:14 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:39:14 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:39:14 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:39:14 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:39:14 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:39:14 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:39:14 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:39:14 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 18:40:30 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 18:40:30 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 18:40:30 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 18:40:30 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 18:40:30 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 18:40:30 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 18:40:30 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 18:40:30 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 19:39:22 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 19:39:22 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 19:39:22 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 19:39:22 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 19:39:22 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 19:39:22 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 19:39:22 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 19:39:22 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 19:43:45 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 19:43:45 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 19:43:45 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 19:43:45 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 19:43:45 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 19:43:45 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 19:43:45 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 19:43:45 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 19:54:11 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 19:54:11 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 19:54:11 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 19:54:11 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 19:54:11 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 19:54:11 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 19:54:11 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 19:54:11 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:08:17 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:08:17 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:08:17 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:08:17 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:08:17 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:08:17 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:08:17 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:08:17 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:09:19 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:09:19 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:09:19 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:09:19 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:09:19 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:09:19 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:09:19 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:09:19 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:09:33 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:09:33 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:09:33 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:09:33 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:09:33 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:09:33 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:09:33 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:09:33 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:11:38 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:11:38 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:11:38 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:11:38 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:11:38 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:11:38 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:11:38 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:11:38 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:11:41 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:11:41 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:11:41 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:11:41 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:11:41 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:11:41 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:11:41 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:11:41 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:14:54 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:14:54 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:14:54 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:14:54 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:14:54 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:14:54 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:14:54 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:14:54 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:17:36 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:17:36 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:17:36 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:17:36 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:17:36 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:17:36 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:17:36 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:17:36 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:25:05 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:25:05 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:25:05 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:25:05 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:25:05 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:25:05 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:25:05 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:25:05 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:28:41 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:28:41 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:28:41 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:28:41 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:28:41 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:28:41 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:28:41 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:28:41 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:34:14 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:34:14 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:34:14 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:34:14 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:34:14 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:34:14 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:34:14 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:34:14 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 20:49:12 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 20:49:12 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 20:49:12 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 20:49:12 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 20:49:12 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 20:49:12 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 20:49:12 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 20:49:12 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:12:49 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:12:49 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:12:49 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:12:49 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:12:49 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:12:49 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:12:49 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:12:49 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:13:13 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:13:13 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:13:13 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:13:13 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:13:13 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:13:13 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:13:13 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:13:13 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:13:16 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:13:16 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:13:16 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:13:16 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:13:16 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:13:16 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:13:16 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:13:16 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:14:27 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:14:27 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:14:27 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:14:27 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:14:27 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:14:27 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:14:27 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:14:27 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:14:45 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:14:45 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:14:45 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:14:45 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:14:45 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:14:45 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:14:45 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:14:45 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:34:20 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:34:20 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:34:20 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:34:20 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:34:20 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:34:20 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:34:20 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:34:20 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:53:56 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-25 21:53:56 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-25 21:53:56 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-25 21:53:56 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-25 21:53:56 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-25 21:53:56 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-25 21:53:56 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-25 21:53:56 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-25 21:54:25 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-25 21:54:56 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-25 21:55:00 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-25 21:59:47 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-25 22:23:24 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-25 22:30:39 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-26 13:52:45 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-26 13:52:45 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-26 13:52:45 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-26 13:52:45 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-26 13:52:45 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-26 13:52:45 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-26 13:52:45 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-26 13:52:45 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-26 14:21:42 INFO  Benchmark_Timer - Begin run: Test insertion sort with 0 runs
+2020-09-26 16:11:03 INFO  Benchmark_Timer - Begin run: Test  with 1,000 runs
+2020-09-26 16:19:01 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 16:19:43 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:38:50 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:38:51 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:38:51 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:40:31 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:40:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:40:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:42:48 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:42:49 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:42:49 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:43:05 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:43:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:43:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:43:33 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:43:34 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:43:34 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:55:39 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:55:40 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:55:40 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 17:55:42 INFO  Benchmark_Timer - Begin run: Test Insertion Sort  with 1,000 runs
+2020-09-26 18:01:31 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:01:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:01:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:01:34 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:01:56 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:01:57 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:01:57 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:01:59 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:04:31 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:04:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-26 18:04:34 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-26 18:04:38 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-26 18:04:41 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-26 18:04:47 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-26 18:05:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:05:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:05:01 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:11:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:11:37 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-26 18:11:39 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-26 18:11:43 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-26 18:11:46 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-26 18:11:53 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-09-26 18:12:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:12:08 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:13:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:13:09 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-26 18:13:11 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-26 18:13:14 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-26 18:13:17 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-26 18:13:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-09-26 18:13:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:13:37 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:18:06 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:18:07 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-26 18:18:09 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-26 18:18:12 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-26 18:18:15 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-26 18:18:22 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-09-26 18:18:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:18:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 2,000 runs
+2020-09-26 18:18:37 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 4,000 runs
+2020-09-26 18:18:41 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 8,000 runs
+2020-09-26 18:18:47 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 16,000 runs
+2020-09-26 18:19:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 32,000 runs
+2020-09-26 18:19:26 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:19:55 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-26 18:19:56 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-26 18:19:58 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-26 18:20:01 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-26 18:20:05 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-26 18:20:11 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-09-26 18:20:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-26 18:20:25 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 2,000 runs
+2020-09-26 18:20:27 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 4,000 runs
+2020-09-26 18:20:30 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 8,000 runs
+2020-09-26 18:20:37 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 16,000 runs
+2020-09-26 18:20:49 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 32,000 runs
+2020-09-26 18:21:14 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-26 18:21:14 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 2,000 runs
+2020-09-26 18:21:15 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 4,000 runs
+2020-09-26 18:21:16 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 8,000 runs
+2020-09-26 18:21:19 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 16,000 runs
+2020-09-26 18:21:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 32,000 runs
+2020-09-27 21:48:24 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-09-27 21:50:03 DEBUG Config - Config.get(helper, instrument) = true
+2020-09-27 21:50:03 DEBUG Config - Config.get(helper, seed) = 0
+2020-09-27 21:50:03 DEBUG Config - Config.get(instrumenting, copies) = true
+2020-09-27 21:50:03 DEBUG Config - Config.get(instrumenting, swaps) = true
+2020-09-27 21:50:03 DEBUG Config - Config.get(instrumenting, compares) = true
+2020-09-27 21:50:03 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2020-09-27 21:50:03 DEBUG Config - Config.get(instrumenting, fixes) = true
+2020-09-27 21:50:03 DEBUG Config - Config.get(helper, cutoff) = 
+2020-09-27 21:52:02 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-27 21:52:03 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-27 21:52:05 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-27 21:52:09 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-27 21:52:12 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-27 21:52:19 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-09-27 21:52:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-27 21:52:33 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 2,000 runs
+2020-09-27 21:52:35 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 4,000 runs
+2020-09-27 21:52:38 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 8,000 runs
+2020-09-27 21:52:45 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 16,000 runs
+2020-09-27 21:52:57 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 32,000 runs
+2020-09-27 21:53:23 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-27 21:53:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 2,000 runs
+2020-09-27 21:53:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 4,000 runs
+2020-09-27 21:53:26 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 8,000 runs
+2020-09-27 21:53:28 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 16,000 runs
+2020-09-27 21:53:34 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 32,000 runs
+2020-09-28 12:04:29 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-09-28 12:04:30 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-09-28 12:04:32 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-09-28 12:04:36 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-09-28 12:04:40 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-09-28 12:04:46 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-09-28 12:04:59 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-09-28 12:04:59 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-09-28 12:04:59 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-09-28 12:05:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-09-28 12:05:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-09-28 12:05:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-09-28 12:05:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-09-28 12:05:01 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 2,000 runs
+2020-09-28 12:05:02 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 4,000 runs
+2020-09-28 12:05:06 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 8,000 runs
+2020-09-28 12:05:12 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 16,000 runs
+2020-09-28 12:05:25 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 32,000 runs
+2020-09-28 12:05:51 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-09-28 12:05:51 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 2,000 runs
+2020-09-28 12:05:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 4,000 runs
+2020-09-28 12:05:53 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 8,000 runs
+2020-09-28 12:05:55 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 16,000 runs
+2020-09-28 12:06:00 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 32,000 runs
+2020-10-01 17:55:04 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-10-01 17:55:09 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-10-01 17:55:11 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2020-10-11 16:04:23 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 1,000 runs
+2020-10-11 16:04:24 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 2,000 runs
+2020-10-11 16:04:26 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 4,000 runs
+2020-10-11 16:04:30 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 8,000 runs
+2020-10-11 16:04:33 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 16,000 runs
+2020-10-11 16:04:39 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_random with 32,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 1,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 2,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 4,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 8,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 16,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_ordered  with 32,000 runs
+2020-10-11 16:04:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 1,000 runs
+2020-10-11 16:04:53 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 2,000 runs
+2020-10-11 16:04:55 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 4,000 runs
+2020-10-11 16:04:58 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 8,000 runs
+2020-10-11 16:05:05 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 16,000 runs
+2020-10-11 16:05:17 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_resersed  with 32,000 runs
+2020-10-11 16:05:43 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 1,000 runs
+2020-10-11 16:05:43 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 2,000 runs
+2020-10-11 16:05:44 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 4,000 runs
+2020-10-11 16:05:45 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 8,000 runs
+2020-10-11 16:05:47 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 16,000 runs
+2020-10-11 16:05:52 INFO  Benchmark_Timer - Begin run: Test Insertion Sort_partially with 32,000 runs
+2020-10-11 16:27:17 INFO  Benchmark_Timer - Begin run: Test UnionFind with 1,000 runs
+2020-10-12 12:58:09 INFO  Benchmark_Timer - Begin run: Test UnionFind with 1,000 runs
+2020-10-12 12:58:09 INFO  Benchmark_Timer - Begin run: Test UF_HWQUPC with 1,000 runs
+2020-10-12 13:02:24 INFO  Benchmark_Timer - Begin run: Test UnionFind with 1,000 runs
+2020-10-12 13:02:24 INFO  Benchmark_Timer - Begin run: Test UF_HWQUPC with 1,000 runs
+2020-10-12 14:06:00 INFO  Benchmark_Timer - Begin run: Test UnionFind with 1,000 runs
+2020-10-12 14:06:58 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:10:57 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:10:58 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:12:17 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:12:17 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:13:35 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:13:35 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:13:47 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:13:48 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:23:58 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:23:58 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:23:58 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:24:20 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:20 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:20 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:24:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:24:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:24:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:24:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:24:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:24:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:24:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 14:27:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 14:27:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 14:27:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 15:34:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 15:34:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 15:34:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 21:11:43 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 21:11:44 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 21:11:59 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 21:12:06 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 21:12:06 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 21:12:06 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:06:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:06:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:14 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:06:19 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:06:20 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:06:20 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:20 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:06:21 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:06:21 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:06:21 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:06:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:06:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:06:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:06:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:06:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:06:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:06:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:06:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:06:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:06:26 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:18 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:18 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:18 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:18 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:22 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:23 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:24 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:25 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:27 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:28 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:28 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:29 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:29 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:32 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:32 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:32 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:32 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:33 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:34 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:35 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:35 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:35 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-12 22:22:36 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-12 22:22:36 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-12 22:22:36 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-12 22:22:37 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
+2020-10-13 15:07:08 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the size with 1,000 runs
+2020-10-13 15:07:08 INFO  Benchmark_Timer - Begin run: Test weighted quick union, store the depth with 1,000 runs
+2020-10-13 15:07:08 INFO  Benchmark_Timer - Begin run: Test weighted quick union with path compression, do two loops with 1,000 runs
+2020-10-13 15:07:08 INFO  Benchmark_Timer - Begin run: Test weighted quick union, with path cpmpression with 1,000 runs
